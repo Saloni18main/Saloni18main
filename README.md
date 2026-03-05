@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Data Analyst asperant <br>👯 I’m looking to collaborate on beginner Python and data analyst projects to improve my skills and contribute to real-world problems.<br>🤝 I’m looking for help with understanding how to apply data science techniques to real datasets and build impactful  projects.<br>🌱 I’m currently learning python , DSA , SQL ,Excel,HTML C++
+🔭 I’m a Data Analyst asperant <br>👯 I’m looking to collaborate on beginner Python and data analyst projects to improve my skills and contribute to real-world problems.<br>🤝 I’m looking for help with understanding how to apply data science techniques to real datasets and build impactful  projects.<br>🌱 I’m currently learning python , DSA , SQL ,Excel,HTML C++<br>
 Very Intrested For NEW AI TOOLS and TECHNOLOGYIES.
 
 
